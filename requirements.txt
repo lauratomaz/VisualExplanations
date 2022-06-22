@@ -1,6 +1,6 @@
 pandas==0.24.2
 nibabel==3.0.2
-numpy==1.11.0
+numpy==1.22.0
 scipy==1.1.0
 dltk==0.2.1
 keras==2.4.3
